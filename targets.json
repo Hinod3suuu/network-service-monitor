@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Google DNS",
+    "type": "ping",
+    "host": "8.8.8.8"
+  },
+  {
+    "name": "Cloudflare DNS",
+    "type": "ping",
+    "host": "1.1.1.1"
+  },
+  {
+    "name": "Google Web",
+    "type": "http",
+    "url": "https://www.google.com"
+  }
+]
